@@ -1,1 +1,1 @@
-# USD-to-INR.Com
+# MyUSD-to-INR.Com
